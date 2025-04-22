@@ -1,1 +1,1 @@
-# Bankingdata
+This dataset contains real-world data from a leading Indian bank and CIBIL, including customer demographics, credit scores, and loan details. It's ideal for practicing customer segmentation, credit risk analysis, and loan default prediction.
